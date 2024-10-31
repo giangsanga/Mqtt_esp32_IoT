@@ -1,5 +1,5 @@
 # Mqtt_esp32_IoT
-Làm quen với esp32 kết nối wifi và sử dụng giao thức MQTT để truyền nhận dữ liệu đơn giản
+Làm quen với esp32 kết nối wifi và sử dụng giao thức MQTT để truyền nhận dữ liệu đơn giản qua HIVEMQ MQTT broker
 # How to do project:
 Sử dụng framework Arduino của Platformio trên Visual Studio Code để lập trình Esp32 DevKit V1
   + Visual Studio Code
