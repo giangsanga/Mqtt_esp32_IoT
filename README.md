@@ -11,5 +11,17 @@ Sử dụng framework Arduino của Platformio trên Visual Studio Code để l�
     * DHT sensor library for ESPx
     * PubSubClient
   + build project -> upload project -> press and hold boot on esp32 to load code
+# How to check data:
+  + download and install: https://mqtt-explorer.com/
+  + run app
+  + add connections
+  + name: IOT
+  + protocol: mqtt://
+  + host: 15dde8f446184978829a951a7530f634.s1.eu.hivemq.cloud
+  + Port: 8883
+  + username: iot2021
+  + password: 12345678
+  + encrytion(tls) ON
 #good luck
+
     
